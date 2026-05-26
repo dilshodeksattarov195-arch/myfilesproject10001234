@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvrocess",
+        "uuid": 8799654,
+        "checksum": "cotxmb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
